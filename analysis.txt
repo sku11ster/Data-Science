@@ -1,0 +1,10 @@
+A.
+
+The datase being used is of DogeCoin a meme crypto currency.
+it is sourced from kaggle dataset repos by different users.
+i am using the financial indicators such as open, high and low, adj close to predict the daily volume of dogecoin.
+The dimensions are [938 rows x 6 columns] for the dataset.
+
+B.replace nan value with avg values of that column.normalized the data using min max technique.
+
+C. i used the linear regression as we are using independent variable to predict dependent output.
